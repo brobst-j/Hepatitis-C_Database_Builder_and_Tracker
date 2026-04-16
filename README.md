@@ -68,8 +68,6 @@ There are two primary ways this repository can have its two main functions (crea
 
 ## Method 1
 
-### Data Sourcing
-
 ### Running
 1. Download dist.zip and unzip it to wherever you would like.
 2. Move the source data into data/source.
